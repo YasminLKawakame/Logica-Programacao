@@ -1,4 +1,4 @@
-**# Lógica de Programação - SENAI
+# Lógica de Programação - SENAI
 
 ## About
 
@@ -61,4 +61,4 @@ O repositório está organizado em três pastas principais:
 
 ## Objetivo
 
-Desenvolver e fortalecer o raciocínio lógico e os fundamentos da programação, aplicando conceitos de JavaScript na resolução de exercícios, desafios e criação de pequenos jogos.**
+Desenvolver e fortalecer o raciocínio lógico e os fundamentos da programação, aplicando conceitos de JavaScript na resolução de exercícios, desafios e criação de pequenos jogos.
